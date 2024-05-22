@@ -1,0 +1,106 @@
+@media (min-width: 640px) {
+    .xsm-100
+    {
+        width: 100%;
+    }
+    .xsm-80{
+        width: 80%;
+    }
+    .xsm-50{
+        width: 50%;
+    }
+    .xsm-33{
+        width: 33%;
+    }
+    .xsm-25{
+       width:25%;
+    }
+    .xsm-16{
+        width:16%;
+    }
+}
+@media  (min-width: 768px){
+    .sm-100
+    {
+        width: 100%;
+    }
+    .sm-80{
+        width: 80%;
+    }
+    .sm-50{
+        width: 50%;
+    }
+    .sm-33{
+        width: 33%;
+    }
+    .sm-25{
+       width:25%;
+    }
+    .sm-16{
+        width:16%;
+    }
+}
+@media (min-width: 1024px){
+    .md-100
+    {
+        width: 100%;
+    }
+    .md-80{
+        width: 80%;
+    }
+    .md-50{
+        width: 50%;
+    }
+    .md-33{
+        width: 33%;
+    }
+    .md-25{
+       width:25%;
+    }
+    .md-16{
+        width:16%;
+    }
+
+}
+@media  (min-width: 1280px){
+    .xl-100
+    {
+        width: 100%;
+    }
+    .md-80{
+        width: 80%;
+    }
+    .xl-50{
+        width: 50%;
+    }
+    .xl-33{
+        width: 33%;
+    }
+    .xl-25{
+       width:25%;
+    }
+    .xl-16{
+        width:16%;
+    }
+}
+@media (min-width: 1536px){
+    .xxl-100
+    {
+        width: 100%;
+    }
+    .md-80{
+        width: 80%;
+    }
+    .xxl-50{
+        width: 50%;
+    }
+    .xxl-33{
+        width: 33%;
+    }
+    .xxl-25{
+       width:25%;
+    }
+    .xxl-16{
+        width:16%;
+    }
+}
